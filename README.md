@@ -45,9 +45,7 @@ To build an Android app that retrieves data in JSON format from a web API, displ
 <table>
   <tr>
     <th>White Theme:</th>
-    <th>Dark Theme:</th>
-    <th>Deleting Record:</th>
-    <th>Fetch Details:</th>
+    
   </tr>
   <tr>
     <td><img width="209" height="468" alt="Screenshot 2025-11-16 151600" src="https://github.com/user-attachments/assets/7146d531-0adc-480f-bdd3-ae2df9f0ec4f" />
